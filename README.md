@@ -1,4 +1,4 @@
-# Eddy Current Probe (Klipper Module)
+# SOVOL SV08 Eddy Current Probe (Klipper Module)
 
 This module implements support for an **eddy current Z probe** (e.g. LDC1612-based) in Klipper.  
 It provides:
@@ -332,3 +332,4 @@ gcode:
 - `RUN_PROBE_VIR_CONTACT` = eddy probe acting as contact  
 - X/Y offsets are explicitly used during calibration  
 - Z offset is used as both probe offset and trigger reference  
+
